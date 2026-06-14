@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Computer Science at Yunnan University
 
 profile:
   align: right
-  image: prof_pic_me.jpg
+  image: prof_pic_me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     Kunming, China

@@ -1,4 +1,3 @@
-````markdown
 ---
 layout: page
 title: SATTC
@@ -82,7 +81,4 @@ Uncomment and replace the URLs below when the corresponding resources are public
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year      = {2026}
 }
-````
-
-```
 ```

@@ -17,13 +17,13 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 4 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. Candidate in Computer Science at Yunnan University. My research focuses on **EEG visual decoding**, **cross-subject generalization**, and **multimodal representation learning** for brain–computer interfaces. I develop generalizable neural-decoding methods that align EEG signals with visual-semantic representations and remain reliable across subjects and deployment conditions. My recent work, **SATTC**, introduces label-free test-time calibration for cross-subject EEG-to-image retrieval and was accepted to **CVPR 2026**.
+I am a Ph.D. Candidate in Computer Science at Yunnan University. My research focuses on building reliable neural-decoding systems for **EEG visual decoding**, with particular interests in **cross-subject generalization**, **test-time adaptation**, and **multimodal representation learning**. My recent work, [**SATTC**](/projects/sattc/), introduces label-free test-time calibration for cross-subject EEG-to-image retrieval and was accepted to **CVPR 2026**. More broadly, I aim to develop neural-decoding pipelines that generalize across individuals and remain reliable under real-world deployment conditions.

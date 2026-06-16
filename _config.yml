@@ -4,18 +4,18 @@
 
 title: Qunjie Huang
 first_name: Qunjie
-middle_name: 
+middle_name:
 last_name: Huang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: Ph.D. Student in Computer Science at Yunnan University. Focusing on Brain-Computer Interfaces (BCI), Neural Decoding, and Neural Manifold Theory.
+  Email is the best way to reach me.
+description: Qunjie Huang is a Ph.D. Candidate in Computer Science at Yunnan University, working on EEG visual decoding, cross-subject generalization, test-time adaptation, and multimodal representation learning for brain-computer interfaces.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
+  with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: brain-computer interfaces, EEG visual decoding, neural decoding, cross-subject generalization, test-time adaptation, multimodal learning, CVPR # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://qunjiehuang.com # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root

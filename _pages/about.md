@@ -26,4 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. Candidate in Computer Science at Yunnan University. My research focuses on building reliable neural-decoding systems for **EEG visual decoding**, with particular interests in **cross-subject generalization**, **test-time adaptation**, and **multimodal representation learning**. My recent work, [**SATTC**](/projects/sattc/), introduces label-free test-time calibration for cross-subject EEG-to-image retrieval and was accepted to **CVPR 2026**. More broadly, I aim to develop neural-decoding pipelines that generalize across individuals and remain reliable under real-world deployment conditions.
+I am a Ph.D. Candidate in Computer Science at Yunnan University. My research focuses on building reliable neural-decoding systems for **EEG visual decoding**, with particular interests in **cross-subject generalization**, **test-time adaptation**, and **multimodal representation learning**.
+
+My recent work, [**SATTC**](/projects/sattc/), introduces label-free test-time calibration for cross-subject EEG-to-image retrieval and was accepted to **CVPR 2026**. More broadly, I aim to develop neural-decoding pipelines that generalize across individuals and remain reliable under real-world deployment conditions.

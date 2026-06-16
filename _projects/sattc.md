@@ -8,9 +8,10 @@ category: research
 related_publications: false
 ---
 
+<!--
 # SATTC
 
-**Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval**
+**Structure-Aware Label-Free Test-Time Calibration for Cross-Subject EEG-to-Image Retrieval** -->
 
 **Qunjie Huang, Weina Zhu**  
 **IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**
